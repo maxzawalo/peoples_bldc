@@ -20,3 +20,7 @@
 
 [Функциональный базис](/knitter_db/) для формирования схемы с помощью ['Сшивки'](https://github.com/maxzawalo/knitter).
 ![](bldc_schem.png)
+
+---
+
+[Поддержать проект](https://boosty.to/maxzawalo/donate)
